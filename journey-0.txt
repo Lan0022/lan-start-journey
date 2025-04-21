@@ -2,4 +2,7 @@ Get Skills
 - Front End Developer
 - Back End Developer
 - Fullstack Developer
+Make a project
+- Web jualan?
+- Sistem pengendali surat masuk & surat keluar
 and get a Job
